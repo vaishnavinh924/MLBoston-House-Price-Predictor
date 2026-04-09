@@ -6,7 +6,7 @@ An interactive **Machine Learning web application** built using **Streamlit** th
 
 ## 🚀 Live Demo
 
-👉 *(Add your Streamlit Cloud link here after deployment)*
+👉 [*(Add your Streamlit Cloud link here after deployment)*](https://vaishnavinh924-mlboston-house-price-predictor-app3-vt8kcb.streamlit.app/)
 
 ---
 
